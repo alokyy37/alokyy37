@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently working as **Data Analyst**
 
-- 💬 Ask me about **Power BI, Tableau, MySQL**
+- 💬 Ask me about **Microsoft Excel, Power BI, Tableau, MySQL**
 
 - 📫 How to reach me **alokyy37@gmail.com**
 
